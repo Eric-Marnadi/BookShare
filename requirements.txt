@@ -66,7 +66,7 @@ mistune==0.8.4
 msrest==0.6.8
 msrestazure==0.6.1
 mysql-connector-python-rf==2.2.2
-nbconvert==5.5.0
+nbconvert==6.3.0
 nbformat==4.4.0
 newsapi==0.1.1
 newsapi-python==0.2.5
